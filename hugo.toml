@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'ja-jp'
+title = 'EOEO Town'
+theme = 'ananke'
+
+[params]
+  date_format = "2006/01/02 03:04"
