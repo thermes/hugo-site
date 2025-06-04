@@ -1,6 +1,7 @@
 baseURL = 'https://example.org/'
-languageCode = 'ja-jp'
+languageCode = 'ja'
 title = 'EOEO Town'
+hasCJKLanguage = true
 theme = 'ananke'
 
 [params]
